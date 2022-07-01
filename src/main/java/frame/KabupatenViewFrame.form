@@ -21,9 +21,11 @@
               <text value="Cari Nama"/>
             </properties>
           </component>
-          <component id="169ed" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+          <component id="169ed" class="javax.swing.JTextField" binding="cariTextField">
             <constraints border-constraint="Center"/>
-            <properties/>
+            <properties>
+              <text value="cariTextField"/>
+            </properties>
           </component>
           <component id="8465e" class="javax.swing.JButton" binding="cariButton" default-binding="true">
             <constraints border-constraint="East"/>
